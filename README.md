@@ -2,7 +2,7 @@
 
 <h1>Projet de centre de tri</h1>
 
-Ros -Slam - Vision - Deep Learning
+Middleware Ros (Python, C++) - Vision (Python) - Deep Learning (Python), Hardware (arduino, openCl, RaspberryPi 3)
 
 __Projet:__
 
