@@ -1,8 +1,11 @@
 # robotics-centre-de-tri
 
-<h1>Projet de centre de tri</h1>
-
 Middleware Ros (Python, C++) - Vision (Python) - Deep Learning (Python), Hardware (arduino, openCl, RaspberryPi 3)
+
+
+
+
+<h2>Projet de centre de tri</h2>
 
 __Projet:__
 
