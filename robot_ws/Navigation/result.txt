@@ -1,0 +1,14 @@
+Challenge 1
+
+#1 (Capacité a créé une carte): 
+result: OK
+comment: COnfère vidéo
+
+#2 (Follow me + obstacle static et dynamique): 
+result: KO
+comment: Script non fonctionnel malgré noeud "catie_test_scenario.py" connecté au roscore et topic /tb3/cmd_vel publié
+
+
+#3 (Détection de solide - point de retour): 
+result: KO
+comment: Pas fait
